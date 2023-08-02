@@ -8,7 +8,7 @@ Plantilla desarrollada en HTML5, CSS3 y JS.
 
 Archivos principales:
 ---
-'''
+
 - index.html
 - identidad.html
 - portafolio.html
@@ -19,9 +19,9 @@ Estructura de la plantilla:
 ---
 '''
 /--
-|- css .- Hojas de estilo para las páginas html
-|- img .- imagenes utilizadas en las páginas html
-|- varios .- Archivos para el diseñp de readme
+  |- css .- Hojas de estilo para las páginas html
+  |- img .- imagenes utilizadas en las páginas html
+  |- varios .- Archivos para el diseñp de readme
 
 Autor:
 jcollado
