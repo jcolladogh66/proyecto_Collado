@@ -17,10 +17,11 @@ Archivos principales:
 
 Estructura de la plantilla:
 ---
-'''
-/--
+
   |- css .- Hojas de estilo para las páginas html
+  
   |- img .- imagenes utilizadas en las páginas html
+  
   |- varios .- Archivos para el diseñp de readme
 
 Autor:
